@@ -12,4 +12,5 @@ Note: All tasks will be completed in real-time and sent to one table in the Data
 
 Project workflow is illustrated below.
 
-![Data-streaming-pipeline](https://user-images.githubusercontent.com/71997016/156401410-c52e8435-97c6-4d2e-8fa9-ef2a387ccaa2.png)
+![Data-streaming-pipeline](https://user-images.githubusercontent.com/71997016/156413698-eefc2db8-a9af-4723-8597-75cda50998fd.png)
+
