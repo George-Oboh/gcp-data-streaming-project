@@ -10,3 +10,6 @@ Get the most visited category/sub-category and update the Data warehouse accordi
 
 Note: All tasks will be completed in real-time and sent to one table in the Data warehouse every 5 minutes.
 
+Project workflow is illustrated below.
+
+![Data-streaming-pipeline](https://user-images.githubusercontent.com/71997016/156401410-c52e8435-97c6-4d2e-8fa9-ef2a387ccaa2.png)
